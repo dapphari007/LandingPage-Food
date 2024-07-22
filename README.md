@@ -1,1 +1,1 @@
-# Landing Page HungryCrocodile Theme
+# Landing-Page Hungry Crocodile Theme
